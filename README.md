@@ -2,15 +2,15 @@
 光线跟踪精粹（暂定名）
 
 - [x] @vinjn Table of Contents
-- [ ] Preface
+- [ ] @renyuhuiharrison Preface
 - [ ] Foreword by Turner Whitted and Martin Stich
-- [ ] Contributors
+- [ ] @renyuhuiharrison Contributors
 - [ ] Notation
 
 PART 1: RAY TRACING BASICS, editor: Chris Wyman
 =
 - [x] @RainVector 1. Ray Tracing Terminology, by Eric Haines and Peter Shirley
-- [ ] 2. What is a Ray? by Peter Shirley, Ingo Wald, Tomas Akenine-Möller, and Eric Haines
+- [x] @YanFeiGao 2. What is a Ray? by Peter Shirley, Ingo Wald, Tomas Akenine-Möller, and Eric Haines
 - [ ] 3. Introduction to DirectX Raytracing, by Chris Wyman and Adam Marrs
 - [ ] 4. A Planetarium Dome Master Camera, by John E. Stone
 - [ ] 5. Computing Minima and Maxima of Subarrays, by Ingo Wald
