@@ -2,9 +2,9 @@
 光线跟踪精粹（暂定名）
 
 - [x] @vinjn Table of Contents
-- [ ] @renyuhuiharrison Preface
+- [x] @renyuhuiharrison Preface
 - [ ] Foreword by Turner Whitted and Martin Stich
-- [ ] @renyuhuiharrison Contributors
+- [x] @renyuhuiharrison Contributors
 - [ ] Notation
 
 PART 1: RAY TRACING BASICS, editor: Chris Wyman
