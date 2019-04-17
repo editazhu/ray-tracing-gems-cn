@@ -14,7 +14,7 @@
 
 PART 1: RAY TRACING BASICS, editor: Chris Wyman
 =
-[ ]1. Ray Tracing Terminology, by Eric Haines and Peter Shirley
+[RainVector]1. Ray Tracing Terminology, by Eric Haines and Peter Shirley
 
 [ ]2. What is a Ray? by Peter Shirley, Ingo Wald, Tomas Akenine-Möller, and Eric Haines
 
