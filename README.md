@@ -2,15 +2,15 @@
 光线跟踪精粹（暂定名）
 
 - [x] @vinjn Table of Contents
-- [x] @renyuhuiharrison + @papalqi Preface
+- [x] @renyuhuiharrison / @papalqi Preface
 - [x] @papalqi Foreword by Turner Whitted and Martin Stich
 - [x] @renyuhuiharrison Contributors
 - [x] @papalqi Notation
 
 PART 1: RAY TRACING BASICS, editor: Chris Wyman
 =
-- [x] @RainVector + @papalqi 1. Ray Tracing Terminology, by Eric Haines and Peter Shirley
-- [x] @YanFeiGao + @papalqi 2. What is a Ray? by Peter Shirley, Ingo Wald, Tomas Akenine-Möller, and Eric Haines
+- [x] @RainVector / @papalqi 1. Ray Tracing Terminology, by Eric Haines and Peter Shirley
+- [x] @YanFeiGao / @papalqi 2. What is a Ray? by Peter Shirley, Ingo Wald, Tomas Akenine-Möller, and Eric Haines
 - [x] @jingjingshenye 3. Introduction to DirectX Raytracing, by Chris Wyman and Adam Marrs
 - [ ] 4. A Planetarium Dome Master Camera, by John E. Stone
 - [x] @editazhu 5. Computing Minima and Maxima of Subarrays, by Ingo Wald
@@ -32,7 +32,7 @@ PART 3: REFLECTIONS, REFRACTIONS, AND SHADOWS, editor: Peter Shirley
 
 PART 4: SAMPLING, editor: Alexander Keller
 =
-- [ ] 15. On the Importance of Sampling, by Matt Pharr
+- [x] @@papalqi 15. On the Importance of Sampling, by Matt Pharr
 - [ ] 16. Sample Transformations Zoo, by Peter Shirley, Samuli Laine, David Hart, Matt Pharr, Petrik Clarberg, Eric Haines, Matthias Raab, and David Cline
 - [ ] 17. Ignoring the Inconvenient When Tracing Rays, by Matt Pharr
 - [ ] 18. Importance Sampling of Many Lights on the GPU, by Pierre Moreau and Petrik Clarberg
