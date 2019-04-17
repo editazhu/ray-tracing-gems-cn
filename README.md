@@ -32,7 +32,7 @@ PART 3: REFLECTIONS, REFRACTIONS, AND SHADOWS, editor: Peter Shirley
 
 PART 4: SAMPLING, editor: Alexander Keller
 =
-- [x] @@papalqi 15. On the Importance of Sampling, by Matt Pharr
+- [x] @papalqi 15. On the Importance of Sampling, by Matt Pharr
 - [ ] 16. Sample Transformations Zoo, by Peter Shirley, Samuli Laine, David Hart, Matt Pharr, Petrik Clarberg, Eric Haines, Matthias Raab, and David Cline
 - [ ] 17. Ignoring the Inconvenient When Tracing Rays, by Matt Pharr
 - [ ] 18. Importance Sampling of Many Lights on the GPU, by Pierre Moreau and Petrik Clarberg
