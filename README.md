@@ -46,7 +46,7 @@ PART 5: DENOISING AND FILTERING, editor: Jacob Munkberg
 
 PART 6: HYBRID APPROACHES AND SYSTEMS, editor: Morgan McGuire
 =
-- [ ] 23. Interactive Light Map and Irradiance Volume Preview in Frostbite, by Diede Apers, Petter Edblom, Charles de Rousiers, and Sébastien Hillaire
+- [x] @quicklyslow 23. Interactive Light Map and Irradiance Volume Preview in Frostbite, by Diede Apers, Petter Edblom, Charles de Rousiers, and Sébastien Hillaire
 - [ ] 24. Real-Time Global Illumination with Photon Mapping, by Niklas Smal and Maksim Aizenshtein
 - [ ] 25. Hybrid Rendering for Real-Time Ray Tracing, by Colin Barré-Brisebois, Henrik Halén, Graham Wihlidal, Andrew Lauritzen, Jasper Bekkers, Tomasz Stachowiak, and Johan Andersson
 - [ ] 26. Deferred Hybrid Path Tracing, by Thomas Schander, Clemens Musterle, and Stephan Bergmann
