@@ -57,5 +57,5 @@ PART 7: GLOBAL ILLUMINATION, editor: Matt Pharr
 - [x] @qingqhua 28. Ray Tracing Inhomogeneous Volumes, by Matthias Raab
 - [ ] 29. Efficient Particle Volume Splatting in a Ray Tracer, by Aaron Knoll, R. Keith Morley, Ingo Wald, Nick Leaf, and Peter Messmer
 - [ ] 30. Caustics Using Screen Space Photon Mapping, by Hyuk Kim
-- [ ] 31. Variance Reduction via Footprint Estimation in the Presence of Path Reuse, by Johannes Jendersie
-- [ ] 32. Accurate Real-Time Specular Reflections with Radiance Caching, by Antti Hirvonen, Atte Seppälä, Maksim Aizenshtein, and Niklas Smal
+- [x] @papalqi 31. Variance Reduction via Footprint Estimation in the Presence of Path Reuse, by Johannes Jendersie
+- [x] @papalqi 32. Accurate Real-Time Specular Reflections with Radiance Caching, by Antti Hirvonen, Atte Seppälä, Maksim Aizenshtein, and Niklas Smal
