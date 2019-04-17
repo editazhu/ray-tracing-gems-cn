@@ -18,7 +18,7 @@ PART 1: RAY TRACING BASICS, editor: Chris Wyman
 - [x] @RainVector / @papalqi 1. Ray Tracing Terminology, by Eric Haines and Peter Shirley
 - [x] @YanFeiGao / @papalqi 2. What is a Ray? by Peter Shirley, Ingo Wald, Tomas Akenine-Möller, and Eric Haines
 - [x] @jingjingshenye 3. Introduction to DirectX Raytracing, by Chris Wyman and Adam Marrs
-- [ ] 4. A Planetarium Dome Master Camera, by John E. Stone
+- [x] @Nicholas10128 4. A Planetarium Dome Master Camera, by John E. Stone
 - [x] @editazhu 5. Computing Minima and Maxima of Subarrays, by Ingo Wald
 
 PART 2: INTERSECTIONS AND EFFICIENCY, editor: Ingo Wald
