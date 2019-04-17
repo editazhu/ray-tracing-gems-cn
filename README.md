@@ -54,7 +54,7 @@ PART 6: HYBRID APPROACHES AND SYSTEMS, editor: Morgan McGuire
 
 PART 7: GLOBAL ILLUMINATION, editor: Matt Pharr
 =
-- [ ] 28. Ray Tracing Inhomogeneous Volumes, by Matthias Raab
+- [x] @qingqhua 28. Ray Tracing Inhomogeneous Volumes, by Matthias Raab
 - [ ] 29. Efficient Particle Volume Splatting in a Ray Tracer, by Aaron Knoll, R. Keith Morley, Ingo Wald, Nick Leaf, and Peter Messmer
 - [ ] 30. Caustics Using Screen Space Photon Mapping, by Hyuk Kim
 - [ ] 31. Variance Reduction via Footprint Estimation in the Presence of Path Reuse, by Johannes Jendersie
