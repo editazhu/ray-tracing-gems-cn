@@ -24,17 +24,17 @@ PART 1: RAY TRACING BASICS, editor: Chris Wyman
 PART 2: INTERSECTIONS AND EFFICIENCY, editor: Ingo Wald
 =
 - [ ] 6. A Fast and Robust Method for Avoiding Self-Intersection, by Carsten Wächter and Nikolaus Binder
-- [ ] 7. Precision Improvements for Ray/Sphere Intersection, by Eric Haines, Johannes Günther, and Tomas Akenine-Möller
+- [x] @AmesingFlank 7. Precision Improvements for Ray/Sphere Intersection, by Eric Haines, Johannes Günther, and Tomas Akenine-Möller
 - [ ] 8. Cool Patches: A Geometric Approach to Ray/Bilinear Patch Intersections, by Alexander Reshetov
 - [ ] 9. Multi-Hit Ray Tracing in DXR, by Christiaan Gribble
 - [ ] 10. A Simple Load-Balancing Scheme with High Scaling Efficiency, by Dietger van Antwerpen, Daniel Seibert, and Alexander Keller
 
 PART 3: REFLECTIONS, REFRACTIONS, AND SHADOWS, editor: Peter Shirley
 =
-- [ ] 11. Automatic Handling of Materials in Nested Volumes, by Carsten Wächter and Matthias Raab
-- [ ] 12. A Microfacet-Based Shadowing Function to Solve the Bump Terminator Problem, by Alejandro Conty Estevez, Pascal Lecocq, and Clifford Stein
-- [ ] 13. Ray Traced Shadows: Maintaining Real-Time Frame Rates, by Jakub Boksansky, Michael Wimmer, and Jiri Bittner
-- [ ] 14. Ray-Guided Volumetric Water Caustics in Single Scattering Media with DXR, by Holger Gruen
+- [x] @Nicholas10128 11. Automatic Handling of Materials in Nested Volumes, by Carsten Wächter and Matthias Raab
+- [x] @Nicholas10128 12. A Microfacet-Based Shadowing Function to Solve the Bump Terminator Problem, by Alejandro Conty Estevez, Pascal Lecocq, and Clifford Stein
+- [x] @Nicholas10128 13. Ray Traced Shadows: Maintaining Real-Time Frame Rates, by Jakub Boksansky, Michael Wimmer, and Jiri Bittner
+- [x] @Nicholas10128 14. Ray-Guided Volumetric Water Caustics in Single Scattering Media with DXR, by Holger Gruen
 
 PART 4: SAMPLING, editor: Alexander Keller
 =
