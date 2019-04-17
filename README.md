@@ -1,7 +1,7 @@
 # ray-tracing-gems-cn
 光线跟踪精粹（暂定名）
 
-[ ]Table of Contents
+[vinjn]Table of Contents
 
 [ ]Preface
 
